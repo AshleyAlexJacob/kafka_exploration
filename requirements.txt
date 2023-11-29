@@ -1,2 +1,4 @@
 # requests
 kafka-python ==  2.0.2
+opencv-contrib-python
+Flask
