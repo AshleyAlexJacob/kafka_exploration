@@ -1,0 +1,1 @@
+/usr/local/bin/zookeeper-server-start /usr/local/etc/zookeeper/zoo.cfg
